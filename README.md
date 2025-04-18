@@ -43,10 +43,13 @@ components: Reusable UI components like Hero, LinkForm, and LinkList.
 pages: Next.js pages, including LandingPage, CreateLink, and dynamic slug redirects.
 
 How It Works
-Landing Page: The Hero component introduces the app and provides a call-to-action button to create links.
+
+Landing Page: 
+The Hero component introduces the app and provides a call-to-action button to create links.
 Create Link: The LinkForm component allows users to input a URL and optional slug. The backend validates and stores the link in the database.
 View Links: The LinkList component displays all created links fetched from the backend.
 Redirect: The [slug].tsx page fetches the original URL for a given slug and redirects the user.
+
 -----
 ### 1. Clone the Repository
 
