@@ -54,8 +54,8 @@ Redirect: The [slug].tsx page fetches the original URL for a given slug and redi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ppratik07/next-backend.git
-cd next-backend
+git clone https://github.com/ppratik07/link-shortner.git
+cd link-shortner
 
 2. Install Dependencies
 Backend
